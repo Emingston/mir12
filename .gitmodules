@@ -1,3 +1,6 @@
 [submodule "todo"]
 	path = todo
 	url = https://github.com/manohar-asconsoftech/todo.git
+[submodule "mir12"]
+	path = mir12
+	url = https://github.com/Emingston/mir12.git
